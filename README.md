@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Patryk
+- 👋 Hi, I’m Patryk 
+- Portfolio: https://patrykreba.com/
 <!-- - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning React and Solidity -->
 - 📫 reach me here: patrykreba95@gmail.com
