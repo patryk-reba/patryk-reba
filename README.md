@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patryk
-- 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning React and Solidity
+<!-- - 👀 I’m interested in Blockchain technology
+- 🌱 I’m currently learning React and Solidity -->
 - 📫 reach me here: patrykreba95@gmail.com
 
 <!---
