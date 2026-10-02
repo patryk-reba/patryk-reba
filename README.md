@@ -6,6 +6,8 @@ AI product engineer. I build AI-native products end to end: React interfaces, re
 - **[Headwind](https://patrykreba.com/work/headwind)**: a rehearsal room for hard conversations at work, from first commit to the App Store in 19 days
 - **[BBC Marble](https://patrykreba.com/work/bbcmarble)**: an AI sourcing and outreach platform run from ChatGPT through a 50-tool MCP server (client project)
 
+Open source: **[read-along](https://github.com/patryk-reba/read-along)**, free AI narration for articles with the paragraph being read highlighted (it powers the Listen button on my blog).
+
 Most of my work lives in private repos: 4,000+ commits in the last 13 months, 71% of them co-written with Claude Code. How I work with coding agents, evals and decision records is written up in my [field notes](https://patrykreba.com/blog).
 
 **Open to senior AI engineering roles**, full-time or contract, remote. You can also [talk to my AI twin](https://patrykreba.com), live.
